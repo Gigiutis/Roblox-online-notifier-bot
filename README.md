@@ -1,3 +1,1 @@
-just nathan sussy project
-
-run at ur own risk
+make sure to specify the variables if you use a host
